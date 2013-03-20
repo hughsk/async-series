@@ -1,0 +1,26 @@
+{
+  "name": "async-series",
+  "version": "0.0.1",
+  "description": "Run a series of callbacks in sequence.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~0.3.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/async-series.git"
+  },
+  "keywords": [
+    "async",
+    "series",
+    "callbacks",
+    "flow",
+    "control"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT"
+}
